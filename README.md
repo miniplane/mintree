@@ -1,7 +1,7 @@
 mintree
 =======
 
-A simple B+Tree implementation I wrote for the Algorythm & Data Structures course at universtiy.
+A simple B+Tree implementation I wrote for the Algorithm & Data Structures course at universtiy.
 
 Container.h and simpletest.C were provided with the assignment.
 
